@@ -1,0 +1,8 @@
+python-dotenv
+openai
+deepgram-sdk
+pyaudio
+rhasspy-silence
+elevenlabs
+pygame
+taipy
